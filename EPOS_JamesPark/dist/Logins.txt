@@ -1,0 +1,10 @@
+MANAGER -> 	user: 000001
+		pin : 1111
+
+EMPLOYEE->  user: 000002
+		pin : 2222
+		
+		user: 000003
+		pin : 3333
+			 
+CARD PAYMENT PIN: 1234
